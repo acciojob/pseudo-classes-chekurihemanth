@@ -4,13 +4,13 @@
 }
 
 :first-child p1{
-	background-color: black;
-	text-color: rgb(255, 255, 255);
+	backgroundcolor: black;
+	color: rgb(255, 255, 255);
 }
 
 :nth-child(2) p{
 }
 
 :last-child > p2{
-	text-color: red;
+	color: red;
 }
