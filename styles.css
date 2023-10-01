@@ -1,1 +1,9 @@
 /*  your css code here. If applicable */
+:root{
+	background-color: rgb(135, 206, 235);
+}
+
+:first-child p{
+	background-color: black;
+	content: white;
+}
