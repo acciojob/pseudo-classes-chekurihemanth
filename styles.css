@@ -3,7 +3,14 @@
 	background-color: rgb(135, 206, 235);
 }
 
-:first-child p{
+:first-child p1{
 	background-color: black;
 	content: white;
+}
+
+:nth-child(2) p{
+}
+
+:last-child > p2{
+	text-color: red;
 }
